@@ -1,0 +1,47 @@
+{
+  "resources/css/assets/style.css": {
+    "file": "assets/style-DQi6_6wz.css",
+    "src": "resources/css/assets/style.css",
+    "isEntry": true
+  },
+  "resources/css/dashasset/dashstyle.css": {
+    "file": "assets/dashstyle-BOOKz_h_.css",
+    "src": "resources/css/dashasset/dashstyle.css",
+    "isEntry": true
+  },
+  "resources/css/dashasset/style.css": {
+    "file": "assets/style-BhVyBYcv.css",
+    "src": "resources/css/dashasset/style.css",
+    "isEntry": true
+  },
+  "resources/js/assets/login.js": {
+    "file": "assets/login-CEfFIyfR.js",
+    "name": "login",
+    "src": "resources/js/assets/login.js",
+    "isEntry": true
+  },
+  "resources/js/assets/main.js": {
+    "file": "assets/main-C3kqCoyt.js",
+    "name": "main",
+    "src": "resources/js/assets/main.js",
+    "isEntry": true
+  },
+  "resources/js/assets/register-user.js": {
+    "file": "assets/register-user-CTERc9qP.js",
+    "name": "register-user",
+    "src": "resources/js/assets/register-user.js",
+    "isEntry": true
+  },
+  "resources/js/dashasset/main.js": {
+    "file": "assets/main-GdZ0Olm8.js",
+    "name": "main",
+    "src": "resources/js/dashasset/main.js",
+    "isEntry": true
+  },
+  "resources/js/toggleLocale.js": {
+    "file": "assets/toggleLocale-5skbX6HU.js",
+    "name": "toggleLocale",
+    "src": "resources/js/toggleLocale.js",
+    "isEntry": true
+  }
+}
